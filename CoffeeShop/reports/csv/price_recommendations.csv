@@ -1,0 +1,4799 @@
+İçecek,Mevcut Fiyat,Minimum Fiyat,Satış Trendi,Satış Yüzdesi,Fiyat Önerisi
+Americano,90,70.55999999999999,Düşüş,5.41%,"Bir Americano içecki için uygun bir fiyat önerisi oluşturmak için, minimum fiyat ve satış trendini göz önünde bulundurabiliriz.
+
+Minimum fiyat: 70.56 TL
+Satış trendi: Düşüş
+Satış yüzdesi: 5.41%
+
+Bu verilere dayanarak, içecek için uygun bir fiyat önerisi olarak;
+
+Fiyat: 78.00 - 85.00 TL
+
+Bu fiyat aralığı, minimum fiyatın%10-20'sinin üzerine gelmekle birlikte, satıcı'nın rekabetçi fiyatla satmasını sağlayabilen bir fiyat aralığını temsil eder.
+
+Örnitelik olarak;
+- Minimum fiyat: 70.56 TL
+- Satış yüzdesi: 5.41%
+- Fiyat: 78.00 - 85.00 TL
+
+Bununla birlikte, bu fiyat önerisi, verilerin daha detalı bir analizi requerir ve rekabetçi mercado koşullarını gözeten satıcıların opinionine göre değişebilir."
+Espresso,80,70.55999999999999,Düşüş,4.95%,"Bu verilere dayanarak, espresso için uygun bir fiyat önerisi oluşturabiliriz:
+
+1. Minimum fiyat: 70.56 TL
+2. Satış trendi: Düşüş (satışlar azalan)
+3. Satış yüzdesi: 4.95% (daha düşük bir satıcı bulmak istendi)
+
+Fiyat recommendasyonu:
+- Fiyat minimumı (70.56 TL) ile satış trendi (düşüş) arasındaki farkın %20'sini alalım. Bu, 70.56 TL - ((70.56 TL x 0.20) = 55.81 TL
+- Satış yüzdesi 4.95% olarak hesaplanacaksa daha düşük bir fiyat seçmek istendiği için bu değerden daha düşük bir fiyat önerilir. Fiyat minimumı (70.56 TL) ile satış trendi (düşüş) arasındaki farkın %25'ini alalım. Bu, 70.56 TL - ((70.56 TL x 0.25) = 52.96 TL
+- Satış yüzdesi 4.95% olarak hesaplanacaksa daha düşük bir fiyat seçmek istendiği için bu değerden daha thấp bir fiyat önerilir.
+
+Fiyat önerisi: 55,99 - 52,96 TL"
+Mocha,100,88.2,Yükseliş,5.78%,"İçecek için uygun bir fiyat önerisi oluşturmak için, minimum fiyat ve satış trendini değerlendirebiliriz.
+
+Minimum fiyat: 88.20 TL
+Satış trendi: Yükseliş
+
+Yükselme trendinde, içecekin giálarını artırmak için daha yüksek bir fiyat_propositiona (FP) önerimize sahip olmalısınız. FP, minimum fiyatın %10'dan fazlasını geçmemelidir.
+
+FP = Minimum Fiyat x 1.1
+= 88.20 TL x 1.1
+= 97.62 TL
+
+Bu nedenle, içecek için uygun bir fiyat önerisi 97.62 TL oluşturulabilir. Bu proposal, minimum fiyatın %10'dan fazlasını geçmezken aynı zamanda satış trendinin yükselişini de yansıtrır."
+Latte,90,88.2,Düşüş,5.44%,"İçecek için uygun bir fiyat önerisi oluşturmak için, aşağıdaki adımları takip edebiliriz:
+
+1. Fiyat değişimini分析 edelim: Satış trendi ""düşüş"" olarak gösteriliyor ve satış yüzdesi 5.44% olarak verildi. Bu data, içecek için minimum fiyatın 88.20 TL olduğu gösterir. Bu da içecek için bir fiyat önerisi oluşturmak için temel data olarak kullanabiliriz.
+
+2. Fiyat değişimine bakalım: Minimum fiyatın 90.00 TL olan bir mevcut fiyat var. Bu, minimum fiyatın daha yüksek olduğu indicate eder. Bu data, içecek için minimum fiyat olan 88.20 TL ile karşılaştırarak, ne kadar fazla increase olduğunu analiz edebiliriz.
+
+3. Fiyat değişimini analiz edelim: Satış trendi ""düşüş"" olarak gösteriliyor ve satış yüzdesi 5.44% olarak verildi. Bu data, içecek için minimum fiyatın 88.20 TL olduğu gösterir. Bu da içecek için bir fiyat önerisi oluşturmak için temel data olarak kullanabiliriz.
+
+4. Fiyat değişimine bakalım: Minimum fiyatın 90.00 TL olan bir mevcut fiyat var. Bu, minimum fiyatın daha yüksek olduğu indicate eder. Bu data, minimum fiyat olan 88.20 TL ile karşılaştırarak, ne kadar fazla increase olduğunu analiz edebiliriz.
+
+5. Fiyat önerisi oluşturulumuza gelelim: Önerimiz, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, mevcut fiyat 90.00 TL olarak verildi. Fiyat değişiminin ""düşüş"" olarak gösterildiğini ve sales percentage 5.44% olarak verildiğini remember edelim. Satış trendi dususlu oldugu için, içecek için minimum fiyat olan 88.20 TL ile karşılaştırarak, ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Fiyat değişiminin ""düşüş"" olarak gösterildiğini ve sales percentage 5.44% olarak verildiğini remember edelim. Satış trendi dususlu oldugu için, internal price değişimini analiz ettiğimiz data ile minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimizi data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edabiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimizi data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebiliriz.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğer data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğer data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğer data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edilebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğer data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increase olduğunu analysis edebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır. Bu dataye göre, internal price değişimini analysis etdiğimiz data ve analysis done afterwards minimum fiyat olan 88.20 TL ile karşılaştırarak ne kadar fazla increasedığını analysis edebilir.
+
+Önerimiz: Internal price değişimini analysis etdiğimiz data ve analysis done Afterwards minimum fiyat olan 88.20 TL ile karşılaştırmak üzerine dayanacaktır."
+Filtre Kahve,75,70.55999999999999,Düşüş,4.73%,"Ürünün minimum fiyatı 70.56 TL'dir ve satış trendi düşüştüktür. Bu durumla birlikte, satış yüzde 4.73'lik bir oranla gerçekleşmektedir.
+
+Bu verilere dayanarak, içecek için uygun bir fiyat önerisi oluşturmak için, minimum fiyatın aslinda alinan fiyata olan oranını hesaplayabiliriz. 
+
+Minimum fiyat: 70.56 TL
+Satış Oranı: %4.73
+
+İçecek için uygun bir fiyat önerisi Olusturmak Için, Satış Oranosunun minimumfiyatı ile bolasın:
+ Minimumfiyat : 70.56
+ Satış Oranosu : .0473 
+ Sonucun minimumfiyata olan oranını hesaplayabiliriz:
+ 70.56/minimumfiyat = .473
+ Bu verilerle ilgili fiyat önerisi oluşturmak için minimumfiyatı aslinda alinan fiyata ekleyebilirsiniz.
+
+ Minimumfiyat: 70.56 
+ Fiyat önerisi : Minimumfiyat + Satış Oranosu * minimumfiyat = 70.56+ ( .0473* 70.56 )
+Fiyat önerisi oluşturmak Için:
+ Satış Oranosu: .0473
+Minimumfiyat: 70.56 
+ Fiyat Propositionu: Minimumfiyat + (Satış Oranosu * minimumfiyat)
+ Satış Oranosu: .0473 
+ Minimumfiyat: 70.56
+ Fiyat Propositionu : 70.56 + ( .0473* 70.56 )
+Fiyat Propositionu oluşturmak Için:
+ Satış Oranosu: .0473
+Minimumfiyat: 70.56
+ Fiyat Propositionu: 70.56 +(Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56 
+ Satış Oranosu: .0473
+ Fiyat Propositionu : 70.56+ ( .0473* 70.56 )
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu: .0473
+ Fiyat Propositionu: 70.56 + (Satış Oranosu * minimumfiyat)
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat : 70.56
+ Satış Oranosu : .0473
+ Fiyat Propositionu: Minimumfiyat + (Satış Oranosu * minimumfiyat)
+Minimumfiyat: 70.56 
+ Satış Oranosu : .0473
+ Fiyat Propositionu: 70.56+ ( .0473* 70.56 )
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56
+ Satış Oranosu: .0473 
+Fiyat Propositionu:Minimumfiyat + (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat : 70.56
+ Satış Oranosu: .0473 
+ Fiyat Propositionu : Minimumfiyat+ (Satış Oranosu* minimumfiyat)
+Minimumfiyat: 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat : 70.56
+ Satış Oranosu: .0473
+Fiyat Propositionu :Minimumfiyat + (Satış Oranosu * minimumfiyat)
+
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu :Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+ Satış Oranosu:.0473
+ Minimumfiyat: 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu: .0473
+ Fiyat Propositionu :Minimumfiyat + (Satış Oranosu* minimumfiyat)
+ Minimumfiyat: 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu *minimumfiyat)
+
+Minimumfiyat : 70.56
+ Satış Oranosu:.0473
+ Fiyat Propositionu :Minimumfiyat + (Satış Oranosu* minimumfiyat)
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu: .0473
+ Fiyat Propositionu :Minimumfiyat+ (Satış Oranosu *minimumfiyat)
+
+Fiat propositionu: Minimumfiyat + (Satış Oranosu* minimumfiyat)
+Minimumfiyat: 70.56
+ Satış Oranosu:.0473 
+Fiyat Propositionu : Minimumfiyat + (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu: .0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat: 70.56
+Fiyat Propositionu :Minimumfiyat + (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat: 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat + (Satış Oranosu * minimumfiyat)
+
+Minimumfiyat: 70.56
+Fiyat Propositionu :Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu : Minimumfiyat + (Satış Oranosu * minimumfiyat)
+
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56
+Fiyat Propositionu :Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat + (Satış Oranosu * minimumfiyat)
+
+Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu: .0473
+ Fiyat Propositionu:Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat: 70.56
+Fiyat Propositionu :Minimumfiyat + (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+
+Fiat propositionu : Minimumfiyat + (Satış Oranosu* minimumfiyat)
+Minimumfiyat : 70.56
+ Satış Oranosu:.0473
+ Fiyat Propositionu :Minimumfiyat + (Satış Oranosu * minimumfiyat)
+
+Fiyat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56 
+ Satış Oranosu: .0473
+Fiyat Propositionu :Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+Fiyat Propositionu oluşturmak Için:
+Minimumfiyat : 70.56
+ Satış Oranosu: .0473
+ Fiyat Propositionu: Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat: 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+Fiat propositionu :Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat : 70.56
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+ Minimumfiyat: 70.56
+Fiyat Propositionu :Minimumfiyat + (Satış Oranosu * minimumfiyat)
+
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+Minimumfiyat : 70.56
+ Satış Oranosu:.0473
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu*minimumfiyat)
+ Minimumfiyat: 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat : 70.56
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+Minimumfiyat : 70.56
+ Satış Oranosu:.0473
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56
+ Satış Oranosu:.0473
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+ Satış Oranosu:.0473
+ Fiyat Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat: 70.56
+ Satış Oranosu:.0473
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranosu * minimumfiyat)
+ Minimumfiyat : 70.56
+Fiat propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyat Propositionu:Minimumfiyat + (Satış Oranosu*minimumfiyat)
+
+ Minimumfiyat : 70.56
+Fiyat Propositionu oluşturmak Için:
+ Minimumfiyat: 70.56 
+ Satış Oranosu:.0473
+ Fiyatı Propositionu: Minimumfiyat+ (Satış Oranoso"
+White Chocolate Mocha,120,105.84,Yeterli veri yok,7.11%,"İçecek için uygun bir fiyat önerisi oluşturmak için, aşağıdaki adımları takip edebilirsiniz:
+
+1. Current Fiyat (Mevcut fiyati): 120,00 TL
+2. Minimum Fiyat (Minimum fiyatı): 105,84 TL
+3. Satış Yüzdesi: 7.11%
+
+İçecek için uygun bir fiyat önerisi oluşturmak için, minimum fiyatın %90'a kadar beingirle değiştirilebilir. Bu nedenle, aşağıdaki fiyat proposal'u oluşturabiliriz:
+
+* Fiyat Proposal'u: 108,72 TL
+Fiyat proposal'u oluşturarak, internal price'den %10 daha az bir fiyata inmek istedik.
+Bu façonda, satış trendi olarak ""Yeterli veri yok"" beingir, but our recommendation is more than the minimum price.
+
+Vardırmak istendiği üzere, bu fiyat proposal'u internal price'dan %11 daha az bir fiyata inmek istendiği halde Satış Yüzdesi olarak 7.11 beingir.
+Ayrıca, içecek için uygun fiyat beingir beingir, minimum fiyat beingir ile değiştirilebilir.
+
+Fiyat recommendasi - Internal Price
+* Current Fiyat (Mevcut fiyati): 120,00 TL
+* Minimum Fiyat (Minimum fiyatı): 105,84 TL
+* Satış Yüzdesi: 7.11%
+* Fiyat Proposal'u: 108,72 TL"
+Hazelnut Latte,110,105.84,Yükseliş,6.58%,"İçecek için uygun bir fiyat önerisi oluşturmak için, minimum fiyatı (105.84 TL) ve satış trendini (yükseliş) göz önünde buluruz.
+
+Minimum fiyatı (105.84 TL) daha az olan daha ucuz bir fiyat seçimi mümkün ise, bu price de Satış yüzdesi (6.58%) ile uyumlu olarak oluşturulabilir.
+
+Fiyat önerisi: 105.00 TL"
+Coconut Latte,110,105.84,Düşüş,6.38%,"Coconut Latte içeckeri için uygun bir fiyat önerisini oluşturmak için minimum fiyat ve satış trendi informationlarını kullanarak daha yüksek satış puanına ulaşabiliriz.
+
+Minimum fiyat: 105.84 TL
+Satış trendi: Düşüş ( downward trend )
+
+Fiyat önerisi oluşturma:
+- Fiyat recommandasyonu minimum fiyatın %5-10'unda olmalıdır.
+- Satış trendi düşüştüğü için daha düşük fiyatlara yönelmek daha uygun olur.
+
+Örneği:
+- Fiyat önerisi: 104.58 TL (minimum fiyatın %2.16)
+- Fiyat recommendationu minimum fiyatın %5.14'de olmayacaksa, daha yüksek fiyata yönelmek daha doğru olacaktır.
+- Fiyat recommandasyonu minimum fiyatın %10.75'sinde olacaksa, daha düşük fiyata yönelmek daha uygun olacaktır.
+
+Özetle, Coconut Latte içeckeri için uygun bir fiyat önerisi olarak, minimum fiyatın %2.16'ında veya %5.14'de fiyata yönelmek daha doğru olur."
+Su,20,8.819999999999999,Düşüş,1.22%,"İçecek için uygun bir fiyat önerisi oluşturmak için aşağıdaki adımları takip edebiliriz:
+
+1. Minimum fiyatı ve mevcut fiyatını karşılaştırın: Minimum fiyatı 8,82 TL, mevcut fiyatı 20,00 TL'dir.
+
+2. Satış trendini analiz edin: Satış trendi düşüştur.
+
+3. Fiyat optimizasyonu yapın: Fiyat optimizasyonuna göre minimum fiyat (8,82 TL) ve mevcut fiyat arasında bir ortalamayı bulabiliriz. Örneğin:
+
+Minimum fiyat: 8,82 TL
+Mevcut fiyat: 20,00 TL
+Ortamlama fiyatı: (8,82 + 20,00) / 2 = 14,91 TL
+
+4. Satış yüzdesini analiz edin: Satış yüzdesi 1,22%'tir.
+
+5. Fiyat önerisi oluşturun: Örneğin, içecek için uygun bir fiyat önerisi olarak 15,00 TL'den başlayarak Satış trendi düşüştur. Bu fiyattan daha düşük bir fiyat vermemiz daha doğru olacaktır.
+
+Önerilen fiyat: 14,90 TL - 15,00 TL"
+Soda,40,17.639999999999997,Düşüş,2.41%,"Önerimiz internal rate of return (IRR) calculationsını verwenden ve minimum fiyatla comparison yapalım.
+
+Minimum fiyat: 17.64 TL
+Mevcut fiyat: 40.00 TL
+Satış trendi: Düşüş
+
+Fiyat đềği için en uygun preço,Internal Rate of Return (IRR), ile mínimo fiyat arasında bulunacak prices. 
+
+Ayrıca Satış yüzdesi de çok az olduğu için internal rate of return (IRR) de çok düşük olacağından fiyat da düşürülmelidir.
+
+Önerimiz minimum fiyatın %40 civarı olacağındir.
+Bu fiyat ile internal rate of Return (IRR), minimum fiyatın çok altında olacak."
