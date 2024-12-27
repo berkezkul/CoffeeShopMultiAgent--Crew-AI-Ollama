@@ -1,16 +1,16 @@
 # CoffeeShopMultiAgent-Crew-AI & Ollama
 Developing strategies the coffee industry with AI-powered multi-agent systems. From customer segmentation to dynamic pricing and strategic campaigns, Crew AI brings intelligent automation to your business.
 
-# ☕ CrewDynamicsAI  
+# ☕ Crew AI  
 **"Empowering Coffee Chains with AI-Driven Multi-Agent Systems"**
 
 Welcome to **CrewDynamicsAI**, where cutting-edge artificial intelligence meets the coffee industry. This repository demonstrates how **multi-agent systems**, powered by the robust capabilities of **Crew AI** and **Ollama LLM**, can optimize operations, boost revenues, and transform customer experiences.
 
 ---
 
-## 🚀 What is CrewDynamicsAI?
+## 🚀 What is Crew AI?
 
-CrewDynamicsAI is a comprehensive AI-powered solution for coffee chains, integrating **multi-agent architectures** to address challenges like:  
+Crew AI is a comprehensive AI-powered solution for coffee chains, integrating **multi-agent architectures** to address challenges like:  
 - 📊 **Customer Segmentation**: Identify customer patterns and preferences.  
 - 💸 **Dynamic Pricing**: Optimize pricing strategies based on demand, trends, and costs.  
 - 📈 **Strategic Campaigns**: Design marketing campaigns tailored for maximum impact.
