@@ -47,7 +47,7 @@ This repository showcases **intelligent automation** in action, from data collec
        │   └── visuals/
        ├── main.py
        └── README.md
-     ```
+```
 
 ---
 
