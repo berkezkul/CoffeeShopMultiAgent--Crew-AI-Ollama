@@ -58,7 +58,7 @@ Kodu kopyala
 
 ## 🤖 Technology Stack
 
-- **Python 3.9+**  
+- **Python 3.9+**
 - **Crew AI Multi-Agent Framework**  
 - **Ollama LLM** for natural language recommendations  
 - **Pandas** for data analysis  
@@ -74,9 +74,8 @@ git clone https://github.com/berkezkul/CoffeeShopMultiAgent--Crew-AI-Ollama.git
 cd CoffeeShopMultiAgent--Crew-AI-Ollama
 
 ---
-
-
-
-##  📬 **Contact Us**
+---
+## 📬 **Contact Me**
   -Linkedln: https://www.linkedin.com/in/berkeozkul1/
   -Gmail: berke.zkl@gmail.com
+
