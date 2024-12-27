@@ -85,10 +85,3 @@ This repository showcases **intelligent automation** in action, from data collec
 ```bash
 git clone https://github.com/berkezkul/CoffeeShopMultiAgent--Crew-AI-Ollama.git
 cd CoffeeShopMultiAgent--Crew-AI-Ollama
-
----
----
-### 📬 **Contact Me**
-  -Linkedln: https://www.linkedin.com/in/berkeozkul1/
-  -Gmail: berke.zkl@gmail.com
-
