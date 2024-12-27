@@ -8,7 +8,6 @@ class PricingAgent(Agent):
     def recommend_prices(self, sales_data, prices_data, costs_data):
         recommendations = []
 
-        # Sadece sayısal sütunları seç
         numeric_sales_data = sales_data.select_dtypes(include="number")
         total_daily_sales = numeric_sales_data.sum(axis=1)  # Günlük toplam satışları hesapla
 
@@ -31,7 +30,7 @@ class PricingAgent(Agent):
                 # Satış trendi analizi
                 sales_trend = self.analyze_sales_trend(numeric_sales_data, drink)
 
-                # Fiyat önerisini oluştur
+                # Fiyat önerisini oluşturma
                 recommendation = self.generate_price_recommendation(
                     drink, current_price, min_price, sales_trend, sales_percentage
                 )

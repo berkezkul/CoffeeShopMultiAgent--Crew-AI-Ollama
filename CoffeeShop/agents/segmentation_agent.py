@@ -4,18 +4,18 @@ class CustomerSegmentationAgent(Agent):
     """Müşteri segmentasyonu yapan ajan."""
     def segment_customers(self, sales_data, prices_data):
         try:
-            # İçecek fiyatlarını satış verileriyle çarparak günlük gelir hesapla
+            # İçecek fiyatlarını satış verileriyle çarparak günlük gelir hesaplama
             for drink in prices_data['İçecek']:
                 if drink in sales_data.columns:
                     sales_data[drink] = sales_data[drink] * prices_data.loc[prices_data['İçecek'] == drink, 'Fiyat'].values[0]
 
-            # Günlük toplam gelir hesapla
+            # Günlük toplam gelir hesaplama
             sales_data['Günlük Gelir'] = sales_data.iloc[:, 1:].sum(axis=1)
 
-            # Ortalama gelir eşiklerini belirle
+            # Ortalama gelir eşiklerini belirleme
             threshold = sales_data['Günlük Gelir'].mean()
 
-            # Gelir eşiğine göre müşteri segmentasyonu yap
+            # Gelir eşiğine göre müşteri segmentasyonu yapma
             sales_data['Müşteri Segmenti'] = [
                 "Premium" if income > threshold * 1.2 else
                 "Fiyat Duyarlı" if income < threshold * 0.8 else

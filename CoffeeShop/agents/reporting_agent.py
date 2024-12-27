@@ -30,7 +30,7 @@ class ReportingAgent(Agent):
     def create_summary_report(self, timestamp, sales_data, segmented_sales, recommendations, campaigns, prices_data):
         """Özet raporu oluştur ve dosyaya kaydet."""
         try:
-            # Sadece sayısal sütunları seç
+            # Sadece sayısal sütunları seçme
             numeric_sales_data = sales_data.select_dtypes(include='number')
 
             # Ortalama fiyat artışı hesaplama
@@ -69,7 +69,7 @@ class ReportingAgent(Agent):
             - Müşteri segmentlerine özel promosyonlar düzenlenmelidir.
             """
 
-            # Raporu kaydet
+            # Raporu kaydetme
             report_file = os.path.join(self.report_dir, f"summary_report.txt")
             with open(report_file, 'w', encoding='utf-8') as f:
                 f.write(report)
