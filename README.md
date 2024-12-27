@@ -4,7 +4,7 @@ Developing strategies the coffee industry with AI-powered multi-agent systems. F
 # ☕ Crew AI  
 **"Empowering Coffee Chains with AI-Driven Multi-Agent Systems"**
 
-Welcome to **CrewDynamicsAI**, where cutting-edge artificial intelligence meets the coffee industry. This repository demonstrates how **multi-agent systems**, powered by the robust capabilities of **Crew AI** and **Ollama LLM**, can optimize operations, boost revenues, and transform customer experiences.
+Welcome to **Crew AI**, where cutting-edge artificial intelligence meets the coffee industry. This repository demonstrates how **multi-agent systems**, powered by the robust capabilities of **Crew AI** and **Ollama LLM**, can optimize operations, boost revenues, and transform customer experiences.
 
 ---
 
