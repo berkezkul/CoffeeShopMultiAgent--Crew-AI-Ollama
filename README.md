@@ -31,10 +31,22 @@ This repository showcases **intelligent automation** in action, from data collec
 
 ## 📂 Repository Structure
 
-📦 CrewDynamicsAI ┣ 📂 agents ┃ ┣ 📜 data_collector_agent.py ┃ ┣ 📜 segmentation_agent.py ┃ ┣ 📜 pricing_agent.py ┃ ┗ 📜 campaign_agent.py ┣ 📂 data ┃ ┣ 📜 drink_sales.csv ┃ ┣ 📜 drink_prices.csv ┃ ┗ 📜 drink_costs.csv ┣ 📂 reports ┃ ┣ 📜 summary_report.txt ┃ ┗ 📜 visuals/ ┣ 📜 main.py ┗ 📜 README.md
+📦 CoffeeShopMultiAgent 
+  ┣ 📂 agents ┃ 
+     ┣ 📜 data_collector_agent.py ┃ 
+     ┣ 📜 segmentation_agent.py ┃ 
+     ┣ 📜 pricing_agent.py ┃ 
+     ┗ 📜 campaign_agent.py 
+  ┣ 📂 data ┃ 
+     ┣ 📜 drink_sales.csv ┃ 
+     ┣ 📜 drink_prices.csv ┃ 
+     ┗ 📜 drink_costs.csv 
+  ┣ 📂 reports ┃ 
+     ┣ 📜 summary_report.txt ┃ 
+     ┗ 📜 visuals/ 
+  ┣ 📜 main.py 
+  ┗ 📜 README.md
 
-yaml
-Kodu kopyala
 
 ---
 
