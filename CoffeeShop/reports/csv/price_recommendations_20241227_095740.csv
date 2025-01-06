@@ -1,0 +1,93 @@
+İçecek,Mevcut Fiyat,Minimum Fiyat,Satış Trendi,Satış Yüzdesi,Fiyat Önerisi
+Americano,90,70.55999999999999,Düşüş,5.41%,"Bu verilerin analizinde, içecek için uygun bir fiyat önerisi oluşturmak için aşağıdaki adımları takip edebiliriz:
+
+1. Minimum fiyatın %10'u kadar fiyata indirmek:
+   Minimum fiyat = 70.56 TL
+   Fiyat indirimi = 70.56 TL * 0,10 = 7,056 TL
+   Yeni minimum fiyat = 70.56 - 7.056 TL = 63.504 TL
+
+2. Satış trendinin etkisine göre fiyat ajustmanı yapmak:
+   Satış trendi: Düşüş
+   Fiyat ajustmani: Fiyat indiriminden daha büyük bir indirime geçmek istemiyoruz.
+   Bu nedenle, satış trendini göz önünde bulurken yeni minimum fiyatı 63.504 TL olarak रखabiliriz.
+
+3. Önerilen fiyatın daha yüksek olması:
+   Fiyat = New Minimum Fiyat
+   Fiyat = 63.504 TL
+
+Önerilen fiyattır ve bu fiyata satılan içecekler için bir harga modeli öneridir."
+Espresso,80,70.55999999999999,Düşüş,4.95%,"İçecek için uygun bir fiyat önerisi oluşturmak için, minimum fiyatı (70.56 TL) ve satış trendini (düşüş) dikkate alabiliriz.
+
+Minimum fiyatın altındadır (80.00 TL), bu nedenle internal pricing strategy (iç pricing stratejisi) uygulanır. Bu strategy'de,Internal price < Minimum price'dir, bu nedenle Internal price: 70.00TL olarak önerilir.
+
+Satış trendi (düşüş), satış yüzdesinin (4.95%) düşük olmasının reasonsını gösterir ve/Internal price < Minimum price'sa, satış trendi daha da düşer ( lowest price satılır).
+
+Bu nedenle içecek için uygun bir fiyat önerisi 70.00 TL'dir."
+Mocha,100,88.2,Yükseliş,5.78%,"Bu satıcıya göre içecek için uygun bir fiyat recommandasyonu belowda yer alıyor:
+
+- Fiyat: 92 TL
+- Minimum fiyat: 88,20 TL
+- Satış trendi: Yükseliş
+- Satış yüzdesi: 5,78%"
+Latte,90,88.2,Düşüş,5.44%,"İçecek için uygun bir fiyat önerisi oluşturmak için, minimum fiyat (88.20 TL) ve satış trendi (düşüş) ile satış yüzdesini (5.44%) dikkate alabiliriz.
+
+Düşüş trendi gösteriyor ki içecek fiyatı son zamanlarda düşüyor. Bu nedenle, internal pricing strategy (iç harga chiến lượcu) olarak minimum fiyatı kullanmak daha uygun olur. Minimum fiyat (88.20 TL) daha uygun ve cạnh competition olan bir fiyat seçeneğidir.
+
+Öte yandan, satış yüzdesi 5.44% olarak gösteriyor ki içecek için satılan miktarı az. Bu nedenle, fiyatı en fazla minimum fiyat kadar düşürmemiz gerekebilir. Fiyatın bu mứcte kalması, satış yüzdesini artırmak için bir fayda sağlayabilir.
+
+Daha explicit bir fiyat önerisi oluşturmak için, internal pricing strategy ve sales mix analysis (satış mix analizi) ile birlikte price elasticity of demand (talep demand elasticity) analizine de bakmak gerekir. Ancak, bu soruda verilen veriler ile hareket ederek, internal pricing strategy ve minimum fiyat kullanması daha uygun olacaktır.
+
+Önerilen içecek fiyatı: 88.20 TL"
+Filtre Kahve,75,70.55999999999999,Düşüş,4.73%,"Filtre Kahvenin satıcıya göre uygun bir fiyat önerisini belirlemek için, minimum fiyat ve mevcut fiyat arasındaki farkı izleyelim.
+
+Mevcut fiyat: 75.00 TL
+Minimum fiyat: 70.56 TL
+
+Fiyat farkı: 75.00 - 70.56 = 4.44 TL
+
+Satış trendi: Düşüş
+Satış yüzdesi: 4.73%
+
+Bu satıcıya göre, minimum fiyat 4.44 TL daha düşük ise, internal pricing strategy (İP) yöntemini kullanmak doğru olacaktır. Bu yöntemde, minimum fiyat 75.00 - 4.44 = 70.56 TL olarak belirlenmelidir.
+
+Oluşacak fiyat:
+Filtre Kahvenin satıcıya göre uygun bir fiyat önerisi 70.56 TL'dir."
+White Chocolate Mocha,120,105.84,Yeterli veri yok,7.11%,"İçecek için uygun bir fiyat önerisi oluşturmak için, aşağıdaki adımları takip edebiliriz:
+
+1. Minimum fiyatı (105.84 TL) ve mevcut fiyatını (120.00 TL) karşılaştırırız.
+2. Her iki fiati de karşılaştırarak,Internal Rate of Return (IRR) calculationını yapabiliriz. IRR, içecek için en uygun fiyat olduğunu gösterir.
+3. Fiyat değişimine bağlı olarak, internal rate of return (IRR) value'sini kullanabiliriz.
+
+Örneğin, aşağıdaki adımları takip edebiliriz:
+
+* Fiyat değişimi:
+ + Minimum fiyat: 105.84 TL
+ + Mevcut fiyat: 120.00 TL
+ + Fiyat değişimi: 14.16 TL (%12.36)
+* Internal Rate of Return (IRR) calculationu:
+
+Fiyat değişimini karşılagenız, internal rate of return (IRR) value'sini kullanabilirsiniz.
+
+İçecek için uygun fiyat önerisi:
+
+Bu verilere dayanarak, içecek için en uygun fiyat önerisi 115.20 TL olur."
+Hazelnut Latte,110,105.84,Yükseliş,6.58%,"Hazelnut Latte için uygun fiyat önerisi oluşturulacak. 
+
+Önerilen fiyat, minimum fiyatın %1.16'ine denk gelmektedir. 
+
+Önerilen fiyat: 105.84 TL x 1.16 = 123.11 TL"
+Coconut Latte,110,105.84,Düşüş,6.38%,"İçecek için uygun bir fiyat önerisi oluşturmak için, satış trendinin düşüştüğü ve satış yüzdesinin düşük olduğu görülmektedir.
+
+Minimum fiyatı 105.84 TL olan içeğe dayanan fiyat recommandasyonu, 110.00 TL ile 104.99 TL arasında değişmektedir. Bu cách, içecek için uygun bir fiyat proposalu sunulmaktadır.
+
+Önerilen fiyat: 104.50 TL"
+Su,20,8.819999999999999,Düşüş,1.22%,"Bu verilere dayanarak, içecek için uygun bir fiyat önerisi oluşturulabilir:
+
+Önerimiz: Fiyat optimizasyonu amaçladıkça, minimum fiyat (8.82 TL) ile mevcut fiyat (20.00 TL) arasında median harga (14.91 TL) قرار almalıdır.
+
+Bu harga, satış trendinin düşük olduğu (düşüş) içecek için daha uygun bir fiyat oluşturmaktadır.
+
+Ayrıca, Satış yüzdesi (1.22%) de düşüncin caused being bu prixde satıldığı zaman sales increase yapabiliriz."
+Soda,40,17.639999999999997,Düşüş,2.41%,"İçecek için uygun bir fiyat önerisi oluşturmak için, ilk olarak minimum fiyat (17.64 TL) ve mevcut fiyat (40.00 TL)'nin giữainden bir fiyat seçmek gerekir. Bu fiyat, satış trendi (düşüş) ile alakalı olmalıdır.
+
+Önerilen fiyat 35.00 TL olarak belirlenir. Bu fiyat, içecek için uygun bir fiyat olacaktır."
